@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakhar Sharma</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" width="400" src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&opi=89978449">
+<img align="right" width="400" src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fprogrammer&ved=0CBUQjRxqFwoTCMCm0bnjpJMDFQAAAAAdAAAAABAI&opi=89978449">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhar0608shrma" alt="prakhar0608shrma" /></a> </p>
 
 - 🔭 I’m currently working on **Open-source contributions and building full-stack web applications.**
