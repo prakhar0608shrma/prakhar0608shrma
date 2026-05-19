@@ -3,14 +3,8 @@
 <h1 align="center">Hi 👋, I'm Prakhar Sharma</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prakhar0608shrma" alt="prakhar0608shrma" />
-  </a>
-</p>
-
 <div align="right">
-  <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4bXNkeHpzMGR1cDB4cjc2YmZ6OXExeWs2dGtzaWNtdnoxb2RmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
+  <img width="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4bXNkeHpzMGR1cDB4cjc2YmZ6OXExeWs2dGtzaWNtdnoxb2RmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
 </div>
 
 - 🔭 I’m currently working on **Open-source contributions and building full-stack web applications.**
@@ -21,11 +15,6 @@
 - ⚡ Fun fact: **"Programming isn’t about what you know; it’s about what you can figure out.”**
 
 <br clear="right">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:prakharsharma0608@gmail.com">prakharsharma0608@gmail.com</a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
