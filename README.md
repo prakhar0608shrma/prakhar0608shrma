@@ -7,12 +7,12 @@
   <img width="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4bXNkeHpzMGR1cDB4cjc2YmZ6OXExeWs2dGtzaWNtdnoxb2RmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
 </div>
 
-- 🔭 I’m currently working on **Open-source contributions and building full-stack web applications.**
-- 🌱 I’m currently learning **Advanced Data Structures & Algorithms, backend architecture, and modern full-stack frameworks.**
-- 💻 I enjoy solving **challenging problems using Data Structures & Algorithms and building full-stack applications that turn ideas into real products.**
-- 💬 Ask me about **Data Structures & Algorithms, Python, C++, Java, and full-stack development.**
-- 📫 How to reach me **prakharsharma0608@gmail.com**
-- ⚡ Fun fact: **"Programming isn’t about what you know; it’s about what you can figure out.”**
+<h4>🔭 I’m currently working on <b>Open-source contributions and building full-stack web applications.</b></h4>
+<h4>🌱 I’m currently learning <b>Advanced Data Structures & Algorithms, backend architecture, and modern full-stack frameworks.</b></h4>
+<h4>💻 I enjoy solving <b>challenging problems using Data Structures & Algorithms and building full-stack applications that turn ideas into real products.</b></h4>
+<h4>💬 Ask me about <b>Data Structures & Algorithms, Python, C++, Java, and full-stack development.</b></h4>
+<h4>📫 How to reach me <b>prakharsharma0608@gmail.com</b></h4>
+<h4>⚡ Fun fact: <b>"Programming isn’t about what you know; it’s about what you can figure out.”</b></h4>
 
 <br clear="right">
 
