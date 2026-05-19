@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prakhar Sharma</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4bXNkeHpzMGR1cDB4cjc2YmZ6OXExeWs2dGtzaWNtdnoxb2RmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
+<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4bXNkeHpzMGR1cDB4cjc2YmZ6OXExeWs2dGtzaWNtdnoxb2RmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
