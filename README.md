@@ -3,13 +3,15 @@
 <h1 align="center">Hi 👋, I'm Prakhar Sharma</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4bXNkeHpzMGR1cDB4cjc2YmZ6OXExeWs2dGtzaWNtdnoxb2RmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=prakhar0608shrma" alt="prakhar0608shrma" />
   </a>
 </p>
+
+<div align="right">
+  <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U4bXNkeHpzMGR1cDB4cjc2YmZ6OXExeWs2dGtzaWNtdnoxb2RmNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
+</div>
 
 - 🔭 I’m currently working on **Open-source contributions and building full-stack web applications.**
 - 🌱 I’m currently learning **Advanced Data Structures & Algorithms, backend architecture, and modern full-stack frameworks.**
@@ -17,6 +19,8 @@
 - 💬 Ask me about **Data Structures & Algorithms, Python, C++, Java, and full-stack development.**
 - 📫 How to reach me **prakharsharma0608@gmail.com**
 - ⚡ Fun fact: **"Programming isn’t about what you know; it’s about what you can figure out.”**
+
+<br clear="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
